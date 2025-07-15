@@ -7,7 +7,7 @@ const Experience = (): ReactElement => {
   return (
     <Section title='Experiences' subtitle="I've achieved so far" border>
       <div className='flex flex-col gap-20'>
-        {experiences.map((exp) => (
+        {experiences.map((exp, i) => (
           <ExperienceSection
             key={exp.company}
             title={exp.title}
@@ -17,7 +17,7 @@ const Experience = (): ReactElement => {
             period={exp.period}
             location={exp.location}
             description={exp.description}
-            className={exp.classname}
+            className={i=== 0 ? "w-60": "w-20"}
           />
         ))}
       </div>

@@ -1,7 +1,7 @@
 # Single Page Portfolio
 Using React and Tailwind CSS
 
-Live demo: https://kbishal.com.np/
+Live demo: https://portfolio-xi-pearl-19.vercel.app/
 
 ![img.png](meRevamped.jpg)
 
