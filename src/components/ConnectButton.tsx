@@ -5,7 +5,7 @@ interface Props {
   className?: string
 }
 
-const ConnectButton = ({ className }: Props): ReactElement => {
+const   ConnectButton = ({ className }: Props): ReactElement => {
   return (
     <a
       href={contacts['linkedin']}

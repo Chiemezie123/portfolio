@@ -8,6 +8,7 @@ interface Props {
   period: string
   location: string
   description: string
+  className:string
 }
 
 const ExperienceSection = ({
@@ -18,13 +19,14 @@ const ExperienceSection = ({
   period,
   location,
   description,
+  className
 }: Props): ReactElement => {
   const logo = new URL(`../../assets/company-logos/${logoFile}`, import.meta.url).href
 
   return (
     <div className='flex flex-col items-center md:flex-row md:items-start gap-8 px-8'>
       <a href={website} target='_blank'>
-        <img src={logo} alt={company} className='w-20 md:w-60' />
+        <img src={logo} alt={company} className={`${className}`} />
       </a>
       <div className='text-center md:text-left'>
         <h2 className='font-semibold text-2xl'>{title}</h2>

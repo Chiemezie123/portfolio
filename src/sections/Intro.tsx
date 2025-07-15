@@ -1,5 +1,5 @@
 import { ReactElement } from 'react'
-import flag from '../assets/country-flag.svg'
+import flag from '../assets/nigeria-flag-icon.svg'
 import Contacts from '../components/Contacts.js'
 import ConnectButton from '../components/ConnectButton.js'
 import profile from '../data/profile.json'
@@ -16,7 +16,7 @@ const Intro = (): ReactElement => {
       style={{ height: '92vh' }}
     >
       <p className='text-4xl font-semibold'>Hello, I'm</p>
-      <p className='text-6xl font-extrabold text-gray-600'>{profile.name}</p>
+      <p className='text-6xl font-extrabold text-gray-600 max-w-[500px]'>{profile.name}</p>
       <p className='text-4xl font-semibold'>{profile.title}</p>
       <p className='text-2xl flex gap-2 items-center'>
         <span>{profile.country}</span> <img src={flag} alt='Flag' className='h-5' />

@@ -1,29 +1,33 @@
 [
   {
-    "title": "Development Lead",
-    "company": "Promoty India",
-    "logoFile": "PromotyIndia.png",
-    "website": "https://influencive.io",
-    "period": "Sept 2022 – Apr 2023",
-    "location": "Mumbai, India (Remote)",
-    "description": "I am a versatile software engineer with experience in various domains, including influencer management platforms, financial reconcilers, and social apps. With my strong technical skills, problem-solving abilities, and proactive mindset, I excel in collaborating with cross-functional teams and delivering projects on time. I am constantly seeking personal and professional growth, open to feedback, and dedicated to continuous improvement."
+    "title": "Front-End Developer",
+    "company": "Haayaa Africa",
+    "logoFile": "haayaa_anime.png",
+    "website": "https://Haayaa.africa",
+    "period": "March 2025 – August 2025",
+    "location": "Enugu, Nigeria (Remote)",
+    "description": "Led the development of dynamic and responsive marketing pages for Haayaa Africa, focused on delivering sleek user experiences through smooth animations and modern UI design. Collaborated closely with the design and product teams to translate brand identity into engaging web components. Optimized performance and accessibility across devices to ensure maximum impact and user engagement.",
+    "classname": "w-60"
   },
   {
-    "title": "Full Stack Developer",
-    "company": "Promoty Marketing OÜ.",
-    "logoFile": "Promoty.svg",
-    "website": "https://promoty.io",
-    "period": "Jun 2021 – Aug 2022",
-    "location": "Tallin, Estonia (Remote)",
-    "description": "I am a versatile software engineer with experience in various domains, including influencer management platforms, financial reconcilers, and social apps. With my strong technical skills, problem-solving abilities, and proactive mindset, I excel in collaborating with cross-functional teams and delivering projects on time. I am constantly seeking personal and professional growth, open to feedback, and dedicated to continuous improvement."
+    "title": "Front-End Developer",
+    "company": "Koinstrap",
+    "logoFile": "Logo_black 1.png",
+    "period": "March 2025 – August 2025",
+    "website": "https://koinstrap.com/",
+    "location": "Enugu, Nigeria (Remote)",
+    "description": "Built and revamped responsive marketing pages with smooth animations and clean UI. Worked closely with the design team to bring brand ideas to life and ensured optimal performance across devices.",
+    "classname": "w-20"
   },
   {
-    "title": "Software Engineer",
-    "company": "Rara Labs",
-    "logoFile": "RaraLabs.png",
-    "website": "https://raralabs.com/",
-    "period": "Sept 2019 – May 2021",
-    "location": "Lalitpur, Nepal",
-    "description": "I am a versatile software engineer with experience in various domains, including influencer management platforms, financial reconcilers, and social apps. With my strong technical skills, problem-solving abilities, and proactive mindset, I excel in collaborating with cross-functional teams and delivering projects on time. I am constantly seeking personal and professional growth, open to feedback, and dedicated to continuous improvement."
+    "title": "junior Front-End Developer",
+    "company": "descout",
+    "logoFile": "Favicon.png",
+    "period": "March 2024 – june 202",
+    "website": "https://descout-me.vercel.app/login",
+    "location": "Enugu, Nigeria (Remote)",
+    "description": "Built the user interface and authentication flow, and integrated the FindDriverInfo API, allowing users to input a driver's username and NIN to retrieve their ride history across multiple ride-hailing platforms.",
+
+    "classname": "w-20"
   }
 ]

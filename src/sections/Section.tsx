@@ -10,7 +10,7 @@ interface Props {
 
 const Section = ({ title, subtitle, id, border, children }: Props): ReactElement => {
   return (
-    <div id={id} className={'py-5 rounded-2xl ' + (border ? 'border' : 'md:border')}>
+    <div id={id} className={'py-5 rounded-2xl  ' + (border ? 'border' : 'md:border')}>
       <h2 className='text-4xl font-bold text-center'>{title}</h2>
       <p className='mb-10 mt-2 text-center text-orange-500 font-medium'>{subtitle}</p>
       {children}

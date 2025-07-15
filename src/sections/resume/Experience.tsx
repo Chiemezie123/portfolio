@@ -17,6 +17,7 @@ const Experience = (): ReactElement => {
             period={exp.period}
             location={exp.location}
             description={exp.description}
+            className={exp.classname}
           />
         ))}
       </div>

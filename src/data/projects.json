@@ -1,34 +1,34 @@
 [
   {
-    "projectName": "Influencive",
-    "imageFile": "Influencive.png",
-    "website": "https://influencive.io",
-    "category": "Campaign Management Platform",
-    "description": "asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fd asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fd asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fdasdf asdfasd fas dfasf asdf asd fas dfasd fas",
-    "highlights": "Subscription model, payment and invoicing system, AWS services, CI/CD pipelines"
+    "projectName": "Nexus Technologies",
+    "imageFile": "project-2.png",
+    "website": "https://main-nexus.vercel.app/",
+    "category": "Landing Page",
+    "description": "A fully responsive, sleek, and animated landing page designed to revamp Nexus Technologies’ digital presence. Built to impress with smooth transitions and a modern UI that captures attention.",
+    "highlights": ""
   },
   {
-    "projectName": "Promoty",
-    "imageFile": "Promoty.png",
-    "website": "https://promoty.io",
-    "category": "Influencer Management Platform",
-    "description": "asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fd asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fd asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fdasdf asdfasd fas dfasf asdf asd fas dfasd fas",
-    "highlights": "Payment detection and credit management, Activities logger and notification system, CRM tools"
+    "projectName": "Haayaa Link",
+    "imageFile": "project-4.png",
+    "website": "https://haayaa.link/",
+    "category": "Link Page",
+    "description": "An intuitive and fast-loading link-in-bio page that connects users to their favorite products and services. Tailored for personal brands and businesses looking to boost engagement with a clean, conversion-driven layout.",
+    "highlights": ""
   },
   {
-    "projectName": "Gokyo Reconciler",
-    "imageFile": "Gokyo-Reconciler.png",
-    "website": "https://reconciler.gokyolabs.com/",
-    "category": "Financial Reconciler",
-    "description": "asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fd asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fd asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fdasdf asdfasd fas dfasf asdf asd fas dfasd fas",
-    "highlights": "Staff tools for campaign management, User tools in CRM, payment detection and linking"
+    "projectName": "Paircular Homes",
+    "imageFile": "project-3.png",
+    "website": "https://particular-homes.vercel.app/dashboard",
+    "category": "Real Estate & Leasing App",
+    "description": "A smart and elegant real estate platform that helps users find their dream apartments at budget-friendly prices. Features a responsive dashboard, easy navigation, and a user-first approach to home leasing.",
+    "highlights": ""
   },
   {
-    "projectName": "Livehood Music",
-    "imageFile": "Livehood.png",
-    "website": "https://play.google.com/store/apps/details?id=app.livehoodmusic&hl=en&gl=US",
-    "category": "A platform for artists, venues and fans alike",
-    "description": "asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fd asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fd asdf asdfasd fas dfasf asdf asd fas dfasd fas asdf asfd asf asf asdf as dfas fas dfasdf asd fa sfasdf asfasdf fgasgas asdfasdf as fdasdf asdfasd fas dfasf asdf asd fas dfasd fas",
-    "highlights": "Staff tools for campaign management, User tools in CRM, payment detection and linking"
+    "projectName": "Project-X",
+    "imageFile": "project-1.png",
+    "website": "https://project-x-roan-three.vercel.app/",
+    "category": "NGO / Education Platform",
+    "description": "A purpose-driven platform created to offer scholarships and educational support to underserved communities. Simple, scalable, and built to make impact through accessibility and trust.",
+    "highlights": ""
   }
 ]
