@@ -6,7 +6,7 @@ const About = (): ReactElement => {
   return (
     <div
       id='about'
-      className='flex flex-col md:flex-row items-center gap-10 text-center md:text-left'
+      className='flex flex-col md:flex-row items-center gap-10 text-center md:text-left mt-20'
     >
       <img src={photo} alt='Photo' className='w-80 h-60 rounded' />
       <div className='flex flex-col items-center md:items-start'>

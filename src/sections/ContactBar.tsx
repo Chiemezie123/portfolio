@@ -5,7 +5,7 @@ const ContactBar = (): ReactElement => {
   return (
     <div
       className={
-        'bg-orange-500 text-white p-5 -mt-20 md:-mt-10 ' +
+        'bg-orange-500 text-white p-5 -mt-20 md:-mt-10 rounded-2xl shadow-md   ' +
         'flex flex-wrap items-center text-center justify-center gap-5 ' +
         'md:text-left md:justify-between'
       }

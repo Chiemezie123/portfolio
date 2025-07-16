@@ -21,7 +21,7 @@ const ProjectItem = ({
 
   return (
     <div className='lg:w-1/2 md:px-5 py-5 '>
-      <div className='flex flex-col items-center gap-6 shadow-lg min-h-[500px]'>
+      <div className='flex flex-col items-center gap-6 shadow-sm min-h-[500px]'>
         <a href={website} target='_blank'>
           <img src={image} alt={projectName} className='' />
         </a>

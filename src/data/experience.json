@@ -21,10 +21,9 @@
     "title": "junior Front-End Developer",
     "company": "descout",
     "logoFile": "Favicon.png",
-    "period": "March 2024 – june 202",
+    "period": "March 2024 – june 2022",
     "website": "https://descout-me.vercel.app/login",
     "location": "Enugu, Nigeria (Remote)",
     "description": "Built the user interface and authentication flow, and integrated the FindDriverInfo API, allowing users to input a driver's username and NIN to retrieve their ride history across multiple ride-hailing platforms."
-
   }
 ]

@@ -4,7 +4,7 @@ import techStacks from '../../data/tech-stacks.json'
 
 const TechStacks = (): ReactElement => {
   return (
-    <Section title='Tech Stacks' subtitle="I've mostly worked with" border>
+    <Section title='Tech Stacks' subtitle="I've mostly worked with" >
       <div className='flex flex-wrap items-center justify-center gap-10'>
         {techStacks.map((item) => {
           const image = new URL(`../../assets/tech-stacks/${item.imageFile}`, import.meta.url).href
